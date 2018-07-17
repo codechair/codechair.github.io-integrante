@@ -139,7 +139,8 @@ video {
 .social-icons ul>li {
 	margin-left: 1rem;
 	margin-right: 1rem;
-	display: inline-block
+	display: inline-block;
+  float: left
 }
 
 .social-icons ul>li>a {
