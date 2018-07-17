@@ -126,7 +126,7 @@ video {
 .social-icons {
   position: absolute;
   margin-bottom: 2rem;
-  width: 70%;
+  width: 100%;
   z-index: 2;
 }
 
