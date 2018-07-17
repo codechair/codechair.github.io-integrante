@@ -126,7 +126,7 @@ video {
 .social-icons {
 	position: absolute;
 	margin-bottom: 2rem;
-	width: 100%;
+	width: auto;
 	z-index: 2
 }
 
@@ -139,7 +139,7 @@ video {
 .social-icons ul>li {
 	margin-left: 1rem;
 	margin-right: 1rem;
-	display: block
+	display: inline-block
 }
 
 .social-icons ul>li>a {
