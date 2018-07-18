@@ -188,7 +188,8 @@ video {
 
 .btn-secondary {
 	background-color: #cd9557;
-	border-color: #cd9557
+	border-color: #cd9557;
+	border-radius: 8px
 }
 
 .btn-secondary:active,
