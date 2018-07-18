@@ -89,10 +89,6 @@ video {
 .masthead .masthead-content .input-group-newsletter input {
 	font-size: 1rem;
 	padding: 1rem;
-	border-top-left-radius: 8px !important;
-	border-bottom-left-radius: 8px !important;
-	border-bottom-right-radius: 0;
-	border-top-right-radius: 0
 }
 
 .masthead .masthead-content .input-group-newsletter button {
