@@ -121,10 +121,6 @@ video {
 	.masthead .masthead-content p {
 		font-size: 1.3rem
 	}
-  .footer-text {
-    background-color: inherit;
-    padding: 10px
-  }
 }
 
 .social-icons {
@@ -205,3 +201,9 @@ video {
 .input {
 	font-weight: 300!important
 }
+
+.footer-text {
+    background-color: inherit;
+    padding: 10px;
+    color: #fff
+  }
