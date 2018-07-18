@@ -189,8 +189,8 @@ video {
 .btn-secondary {
 	background-color: #cd9557;
 	border-color: #cd9557;
-	border-top-right-radius: 8px;
-	border-bottom-right-radius: 8px;
+	border-top-right-radius: 8px !important;
+	border-bottom-right-radius: 8px !important;
 	border-bottom-left-radius: 0;
 	border-top-left-radius: 0
 }
