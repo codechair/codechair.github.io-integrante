@@ -127,7 +127,8 @@ video {
 	position: absolute;
 	margin-bottom: 2rem;
 	width: auto;
-	z-index: 2
+	z-index: 2;
+  text-align:center
 }
 
 .social-icons ul {
