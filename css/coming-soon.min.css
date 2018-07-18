@@ -184,6 +184,10 @@ video {
 	.social-icons ul>li>a:hover {
 		background-color: #002e66
 	}
+  .footer-text {
+    background-color: inherit;
+    padding: 15px
+  }
 }
 
 .btn-secondary {
@@ -200,9 +204,4 @@ video {
 
 .input {
 	font-weight: 300!important
-}
-
-#footer {
-  background-color: none;
-  padding: 15px
 }
