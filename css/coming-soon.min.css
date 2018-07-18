@@ -96,7 +96,11 @@ video {
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	padding: 1rem
+	padding: 1rem;
+	border-top-left-radius: 8px !important;
+	border-bottom-left-radius: 8px !important;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0
 }
 
 @media (min-width:768px) {
