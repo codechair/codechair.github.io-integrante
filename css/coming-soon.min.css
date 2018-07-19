@@ -415,5 +415,8 @@ video {
 
 
 .mastfoot {
+	color: #999;
   color: rgba(255, 255, 255, .5);
+	position: fixed;
+	bottom: 0
 }
