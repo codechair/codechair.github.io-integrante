@@ -417,7 +417,10 @@ video {
 .mastfoot {
 	color: #999;
   color: rgba(255, 255, 255, .5);
-	font-size: 0.5rem !important;
 	position: fixed;
 	bottom: 0
+}
+
+.inner-mastfoot{
+	font-size: 0.5rem !important
 }
