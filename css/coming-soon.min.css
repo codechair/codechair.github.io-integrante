@@ -414,10 +414,6 @@ video {
 
 
 
-.footer-text {
-
-    padding: 10px;
-
-    color: #fff
-
-  }
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+}
