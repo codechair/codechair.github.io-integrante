@@ -380,6 +380,7 @@ video {
 		bottom: 10px !important;
 		margin-left: 4rem !important;
 		margin-right: 10rem !important;
+		padding: 0 !important;
 		z-index: 2
 	}
 
