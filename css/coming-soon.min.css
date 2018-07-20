@@ -374,7 +374,9 @@ video {
 		color: #999 !important;
 	  color: rgba(255, 255, 255, .5) !important;
 		position: absolute !important;
-		bottom: 10px !important
+		bottom: 10px !important;
+		padding-left: 3rem;
+		padding-right: 10rem
 	}
 
 }
@@ -425,7 +427,9 @@ video {
 	color: #262626;
 	color: rgba(26, 26, 26, .5);
 	position: absolute;
-	bottom: 10px
+	bottom: 10px;
+	padding-left: 3rem;
+	padding-right: 10rem
 }
 
 .inner-mastfoot {
