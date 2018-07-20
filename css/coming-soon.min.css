@@ -381,12 +381,12 @@ video {
 		bottom: 10px !important;
 		margin-left: 4rem !important;
 		margin-right: 10rem !important;
-		padding: 0 !important;
 		z-index: 2
 	}
 
 	.inner-mastfoot {
 		font-size: 0.8rem;
+		text-align: center !important
 	}
 
 }
