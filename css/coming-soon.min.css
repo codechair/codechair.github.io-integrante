@@ -246,9 +246,9 @@ video {
 	}
 
 	.mastfoot {
-		color: #262626;
-	  color: rgba(26, 26, 26, .5);
-		position: fixed;
+		color: #262626 !important;
+	  color: rgba(26, 26, 26, .5) !important;
+		position: relative !important;
 		bottom: 10px
 	}
 
