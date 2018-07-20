@@ -433,6 +433,7 @@ video {
 	color: rgba(26, 26, 26, .5);
 	position: absolute;
 	bottom: 10px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	z-index: 2
