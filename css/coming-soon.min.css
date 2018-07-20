@@ -428,8 +428,7 @@ video {
 	color: rgba(26, 26, 26, .5);
 	position: absolute;
 	bottom: 10px;
-	padding-left: 3rem;
-	padding-right: 10rem
+	padding: 1rem
 }
 
 .inner-mastfoot {
