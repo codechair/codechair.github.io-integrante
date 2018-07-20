@@ -99,7 +99,6 @@ video {
   padding: 1rem;
 }
 
-/* this is mobile */
 @media (min-width: 768px) {
   .masthead {
     height: 100%;

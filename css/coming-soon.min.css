@@ -199,7 +199,6 @@ video {
 }
 
 
-/* this is mobile */
 
 @media (min-width:768px) {
 
@@ -243,13 +242,6 @@ video {
 
 		font-size: 1.3rem
 
-	}
-
-	.mastfoot {
-		color: #262626 !important;
-	  color: rgba(26, 26, 26, .5) !important;
-		position: relative !important;
-		bottom: 10px
 	}
 
 }
@@ -376,6 +368,13 @@ video {
 
 		background-color: #002e66
 
+	}
+
+	.mastfoot {
+		color: #262626 !important;
+	  color: rgba(26, 26, 26, .5) !important;
+		position: relative !important;
+		bottom: 10px
 	}
 
 }
