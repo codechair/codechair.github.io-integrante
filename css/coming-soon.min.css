@@ -375,11 +375,12 @@ video {
 @media (min-width:768px) {
 	.mastfoot {
 		color: #999 !important;
-	  color: rgba(255, 255, 255, 1) !important;
+	  color: rgba(255, 255, 255, .5) !important;
 		position: absolute !important;
 		bottom: 10px !important;
 		padding-left: 3rem !important;
-		padding-right: 10rem !important
+		padding-right: 10rem !important;
+		z-index: 2
 	}
 
 }
@@ -428,10 +429,11 @@ video {
 
 .mastfoot {
 	color: #262626;
-	color: rgba(26, 26, 26, 1);
+	color: rgba(26, 26, 26, .5);
 	position: absolute;
 	bottom: 10px;
-	padding: 1rem
+	padding: 1rem;
+	z-index: 2
 }
 
 .inner-mastfoot {
