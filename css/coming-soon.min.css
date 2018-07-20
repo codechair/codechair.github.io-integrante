@@ -373,6 +373,7 @@ video {
 }
 
 @media (min-width:768px) {
+
 	.mastfoot {
 		color: #999 !important;
 	  color: rgba(255, 255, 255, .5) !important;
@@ -382,6 +383,10 @@ video {
 		margin-right: 10rem !important;
 		padding: 0 !important;
 		z-index: 2
+	}
+
+	.inner-mastfoot {
+		font-size: 0.8rem;
 	}
 
 }
