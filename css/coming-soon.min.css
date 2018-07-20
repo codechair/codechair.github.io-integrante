@@ -116,6 +116,8 @@ video {
 
 	padding-bottom: 3rem;
 
+	height: 80%;
+
 	z-index: 2
 
 }
@@ -138,7 +140,7 @@ video {
 
 	min-height: 35rem;
 
-	height: 80%;
+	height: 100%;
 
 	background-color: rgba(0, 46, 102, .8);
 
