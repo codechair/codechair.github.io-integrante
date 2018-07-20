@@ -245,6 +245,13 @@ video {
 
 	}
 
+	.mastfoot {
+		color: #262626;
+	  color: rgba(26, 26, 26, .5);
+		position: fixed;
+		bottom: 10px
+	}
+
 }
 
 
