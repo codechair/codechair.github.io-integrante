@@ -375,8 +375,8 @@ video {
 	  color: rgba(255, 255, 255, .5) !important;
 		position: absolute !important;
 		bottom: 10px !important;
-		padding-left: 3rem;
-		padding-right: 10rem
+		padding-left: 3rem !important;
+		padding-right: 10rem !important
 	}
 
 }
