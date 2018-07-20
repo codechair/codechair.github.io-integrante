@@ -378,7 +378,7 @@ video {
 	  color: rgba(255, 255, 255, .5) !important;
 		position: absolute !important;
 		bottom: 10px !important;
-		margin-left: 5rem !important;
+		margin-left: 4rem !important;
 		margin-right: 10rem !important;
 		z-index: 2
 	}
