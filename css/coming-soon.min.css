@@ -136,15 +136,15 @@ video {
 
 	width: 100%;
 
-	min-height: 35rem;
+	min-height: 20rem;
 
 	height: 100%;
 
 	background-color: rgba(0, 46, 102, .8);
 
-	transform: skewY(4deg);
+	/*transform: skewY(4deg);
 
-	transform-origin: bottom right
+	transform-origin: bottom right*/
 
 }
 
