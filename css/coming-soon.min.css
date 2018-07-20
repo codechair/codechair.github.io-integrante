@@ -371,9 +371,9 @@ video {
 	}
 
 	.mastfoot {
-		color: #262626 !important;
-	  color: rgba(26, 26, 26, .5) !important;
-		position: relative !important;
+		color: #999;
+	  color: rgba(255, 255, 255, .5);
+		position: fixed;
 		bottom: 10px
 	}
 
@@ -422,9 +422,9 @@ video {
 
 
 .mastfoot {
-	color: #999;
-  color: rgba(255, 255, 255, .5);
-	position: fixed;
+	color: #262626 !important;
+	color: rgba(26, 26, 26, .5) !important;
+	position: relative !important;
 	bottom: 10px
 }
 
