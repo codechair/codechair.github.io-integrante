@@ -472,6 +472,10 @@ video {
     border-bottom-color: transparent;
 }
 
+.cover-container {
+  max-width: 42em;
+}
+
 .masthead-brand {
   margin-bottom: 0;
 }
