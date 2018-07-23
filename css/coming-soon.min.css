@@ -299,10 +299,12 @@ video {
 
 .masthead__navigation {
 		margin-bottom: 2rem;
+		z-index: 3
 }
 
 .inner-masthead {
     margin-bottom: 0;
+		z-index: 3
 	}
 
 .nav-masthead .nav-link {
