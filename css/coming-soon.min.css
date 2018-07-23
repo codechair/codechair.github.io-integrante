@@ -300,6 +300,7 @@ video {
 		  color: rgba(26, 26, 26, .5);
 		  background-color: transparent;
 		  border-bottom: .25rem solid transparent;
+			z-index: 3
 		}
 
 .nav-masthead .nav-link:hover,
