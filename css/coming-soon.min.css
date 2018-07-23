@@ -290,7 +290,8 @@ video {
 
 .inner {
     margin-bottom: 0;
-		width: 100vw !important
+		width: 100vw !important;
+		z-index: 3
     }
 
 .nav-masthead .nav-link {
