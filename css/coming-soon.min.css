@@ -284,10 +284,6 @@ video {
 
 @media (min-width:768px) {
 
-	.masthead__navigation {
-		margin-bottom: 2rem;
-	}
-
 	.nav-masthead .nav-link {
 				color: #999;
 			  color: rgba(255, 255, 255, .5);
@@ -302,9 +298,7 @@ video {
 
 
 .masthead__navigation {
-		margin-bottom: 0;
-		width: 100vw;
-		z-index: 3
+		margin-bottom: 2rem;
 }
 
 .inner-masthead {
@@ -317,7 +311,6 @@ video {
 		  color: rgba(26, 26, 26, .5);
 		  background-color: transparent;
 		  border-bottom: .25rem solid transparent;
-			z-index: 3
 		}
 
 .nav-masthead .nav-link:hover,
