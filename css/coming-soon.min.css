@@ -307,11 +307,9 @@ video {
 		z-index: 3
 }
 
-.inner {
+.inner-masthead {
     margin-bottom: 0;
-		width: 100vw !important;
-		z-index: 3
-    }
+	}
 
 .nav-masthead .nav-link {
 		  padding: .25rem 0;
@@ -337,7 +335,7 @@ video {
 }
 
 		@media (min-width: 48em) {
-		  .inner {
+		  .inner-masthead {
 		    float: left;
 		  }
 		  .nav-masthead {
