@@ -304,16 +304,13 @@ video {
 
 .masthead__navigation {
 		margin-bottom: 2rem;
+		z-index: 3
 }
 
 .inner-masthead {
     margin-bottom: 0;
-		z-index:3
+		z-index: 3
 	}
-
-.nav-masthead {
-	width: 100%
-}
 
 .nav-masthead .nav-link {
 		  padding: .25rem 0;
@@ -339,7 +336,6 @@ video {
 		  border-bottom-color: #fff;
 }
 
-/* for desktop */
 		@media (min-width: 48em) {
 		  .inner-masthead {
 		    float: left;
