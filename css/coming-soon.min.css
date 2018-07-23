@@ -286,7 +286,7 @@ video {
 
 	.masthead__navigation {
 			margin-bottom: 2rem;
-			padding-bottom: 0;
+			padding-bottom: 0 !important;
 	}
 
 	.nav-masthead .nav-link {
@@ -309,7 +309,7 @@ video {
 
 .masthead__navigation {
 		margin-bottom: 0;
-		padding-bottom: 0;
+		padding-bottom: 0 !important;
 }
 
 .inner-masthead {
