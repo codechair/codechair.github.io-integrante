@@ -282,8 +282,17 @@ video {
     border-bottom-color: transparent;
 }
 
-.masthead__navigation {
+@media (min-width:768px) {
+
+	.masthead__navigation {
 		margin-bottom: 2rem;
+	}
+
+}
+
+
+.masthead__navigation {
+		margin-bottom: 0;
 		width: 100vw;
 		z-index: 3
 }
