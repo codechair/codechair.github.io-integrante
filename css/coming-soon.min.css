@@ -285,13 +285,13 @@ video {
 @media (min-width:768px) {
 
 	.nav-masthead .nav-link {
-				color: #999;
-			  color: rgba(255, 255, 255, .5);
+				color: #999 !important;
+			  color: rgba(255, 255, 255, .5) !important;
 			}
 
 	.nav-masthead .nav-link:hover,
 	.nav-masthead .nav-link:focus {
-			  border-bottom-color: rgba(255, 255, 255, .5);
+			  border-bottom-color: rgba(255, 255, 255, .5) !important;
 	}
 
 }
