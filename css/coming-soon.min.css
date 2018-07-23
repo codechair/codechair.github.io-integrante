@@ -305,7 +305,7 @@ video {
 .masthead__navigation {
 		margin-bottom: 2rem;
 		padding-bottom: 0 !important;
-		width: 100vw
+		width: 100vw !important
 }
 
 .inner-masthead {
