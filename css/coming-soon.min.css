@@ -70,7 +70,7 @@ video {
 	overflow: hidden;
 	padding-bottom: 3rem;
 	height: 80%;
-	z-index: 2
+	z-index: 3
 }
 
 .masthead .masthead-bg {
@@ -218,7 +218,7 @@ video {
 		bottom: 10px !important;
 		margin-left: 4rem !important;
 		margin-right: 10rem !important;
-		z-index: 2
+		z-index: 3
 	}
 
 	.inner-mastfoot {
@@ -256,7 +256,7 @@ video {
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	z-index: 2
+	z-index: 3
 }
 
 .inner-mastfoot {
