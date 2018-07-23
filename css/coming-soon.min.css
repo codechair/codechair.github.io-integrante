@@ -282,7 +282,7 @@ video {
     border-bottom-color: transparent;
 }
 
-.masthead {
+.masthead__navigation {
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
