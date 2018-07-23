@@ -288,6 +288,16 @@ video {
 		margin-bottom: 2rem;
 	}
 
+	.nav-masthead .nav-link {
+				color: #999;
+			  color: rgba(255, 255, 255, .5);
+			}
+
+	.nav-masthead .nav-link:hover,
+	.nav-masthead .nav-link:focus {
+			  border-bottom-color: rgba(255, 255, 255, .5);
+	}
+
 }
 
 
