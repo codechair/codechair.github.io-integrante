@@ -285,13 +285,18 @@ video {
 @media (min-width:768px) {
 
 	.nav-masthead .nav-link {
-				color: #999;
-			  color: rgba(255, 255, 255, .5);
+				color: #262626;
+			  color: rgba(26, 26, 26, .5);
 			}
 
 	.nav-masthead .nav-link:hover,
 	.nav-masthead .nav-link:focus {
-			  border-bottom-color: rgba(255, 255, 255, .5);
+			border-bottom-color: rgba(26, 26, 26, .5) ;
+	}
+
+	.nav-masthead .active {
+			  color: #000;
+			  border-bottom-color: #000;
 	}
 
 }
@@ -310,7 +315,8 @@ video {
 .nav-masthead .nav-link {
 		  padding: .25rem 0;
 		  font-weight: 700;
-		  color: rgba(26, 26, 26, .5) !important;
+			color: #999;
+		  color: rgba(255, 255, 255, .5);
 		  background-color: transparent;
 		  border-bottom: .25rem solid transparent;
 			z-index: 3;
@@ -318,7 +324,7 @@ video {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-		  border-bottom-color: rgba(26, 26, 26, .5) !important;
+		  border-bottom-color: rgba(255, 255, 255, .5);
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -326,8 +332,8 @@ video {
 }
 
 .nav-masthead .active {
-		  color: #000;
-		  border-bottom-color: #000;
+		  color: #fff;
+		  border-bottom-color: #fff;
 }
 
 		@media (min-width: 48em) {
