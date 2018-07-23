@@ -38,19 +38,23 @@
       <source src="mp4/bg.mp4" type="video/mp4">
     </video>
 
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-      <header class="masthead mb-auto">
-        <div class="inner">
-          <h3 class="masthead-brand">Cover</h3>
-          <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link active" href="#">Blog</a>
-            <a class="nav-link" href="#">Join Newsletter</a>
-            <a class="nav-link" href="#">Contact</a>
+  <div class="masthead">
+    <div class="masthead__navigation">
+      <div class="masthead__inner-wrap">
+        <div class="masthead__menu">
+          <nav id="site-nav">
+            <a class="Coming Soon" href="{{ '/' | absolute_url }}"><img src="/assets/images/logo.jpg" style="max-height:40px; width:auto;"></a>
+            <ul class="visible-links">
+              <li class="masthead__menu-item">
+                <a class="nav-link active" href="#">Blog</a>
+                <a class="nav-link" href="#">Join Newsletter</a>
+                <a class="nav-link" href="#">Contact</a>
+              </li>
+            </ul>
           </nav>
         </div>
-      </header>
-
-    <div class="masthead">
+      </div>
+    </div>  
       <div class="masthead-bg"></div>
       <div class="container h-100">
         <div class="row h-100">
