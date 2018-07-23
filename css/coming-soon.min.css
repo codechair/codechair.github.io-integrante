@@ -284,7 +284,8 @@ video {
 
 .masthead__navigation {
 		margin-bottom: 2rem;
-		width: 100vw
+		width: 100vw;
+		z-index: 3
 }
 
 .inner {
