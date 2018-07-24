@@ -287,7 +287,7 @@ video {
 	.nav-masthead .nav-link {
 				color: #262626 !important;
 			  color: rgba(26, 26, 26, .5) !important;
-			}
+	}
 
 	.nav-masthead .nav-link:hover,
 	.nav-masthead .nav-link:focus {
@@ -304,11 +304,11 @@ video {
 		margin-bottom: 2rem;
 		padding-bottom: 0 !important;
 		width: 100vw !important;
-		z-index: 4 !important
 }
 
 .inner-masthead {
     margin-bottom: 0;
+		z-index: 4 !important
 }
 
 .nav-masthead .nav-link {
@@ -318,6 +318,7 @@ video {
 		  color: rgba(255, 255, 255, .5);
 		  background-color: transparent;
 		  border-bottom: .25rem solid transparent;
+			z-index: 4 !important
 }
 
 .nav-masthead .nav-link:hover,
