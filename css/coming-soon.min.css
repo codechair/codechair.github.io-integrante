@@ -287,19 +287,16 @@ video {
 	.nav-masthead .nav-link {
 				color: #262626 !important;
 			  color: rgba(26, 26, 26, .5) !important;
-				z-index: 4 !important
 			}
 
 	.nav-masthead .nav-link:hover,
 	.nav-masthead .nav-link:focus {
 			border-bottom-color: rgba(26, 26, 26, .5) !important;
-			z-index: 4 !important
 	}
 
 	.nav-masthead .active {
 			  color: #000 !important;
 			  border-bottom-color: #000 !important;
-				z-index: 4 !important
 	}
 }
 
@@ -307,6 +304,7 @@ video {
 		margin-bottom: 2rem;
 		padding-bottom: 0 !important;
 		width: 100vw !important;
+		z-index: 4 !important
 }
 
 .inner-masthead {
