@@ -73,6 +73,10 @@ video {
 	z-index: 3
 }
 
+.masthead-content {
+	margin-top: 2rem !important;
+}
+
 .masthead .masthead-bg {
 	position: absolute;
 	top: 0;
@@ -125,6 +129,10 @@ video {
 		min-height: 0;
 		transform: skewX(-8deg);
 		transform-origin: top right
+	}
+
+	.masthead-content {
+		margin-top: 0 !important;
 	}
 
 	.masthead .masthead-content {
