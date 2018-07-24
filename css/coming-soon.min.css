@@ -67,7 +67,7 @@ video {
 
 .masthead {
 	position: relative;
-	overflow: hidden;
+	overflow: visible;
 	padding-bottom: 3rem;
 	height: 80%;
 	z-index: 3
