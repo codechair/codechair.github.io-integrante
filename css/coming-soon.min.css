@@ -310,6 +310,7 @@ video {
 		margin-bottom: 2rem;
 		padding-bottom: 0 !important;
 		width: 100vw !important;
+		z-index: 4 !important
 }
 
 .inner-masthead {
