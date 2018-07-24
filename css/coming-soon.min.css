@@ -313,7 +313,8 @@ video {
 }
 
 .inner-masthead {
-    /*margin-bottom: 0; */
+    margin-bottom: 0;
+		position: absolute;
 		z-index: 4 !important
 }
 
