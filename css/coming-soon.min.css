@@ -304,8 +304,6 @@ video {
 		margin-bottom: 2rem;
 		padding-bottom: 0 !important;
 		width: 100vw !important;
-		z-index: 3 !important
-
 }
 
 .inner-masthead {
@@ -319,6 +317,7 @@ video {
 		  color: rgba(255, 255, 255, .5);
 		  background-color: transparent;
 		  border-bottom: .25rem solid transparent;
+			z-index: 4 !important
 }
 
 .nav-masthead .nav-link:hover,
