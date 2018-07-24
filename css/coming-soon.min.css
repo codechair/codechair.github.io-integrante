@@ -286,7 +286,8 @@ video {
 @media (min-width:768px) {
 
 	.masthead__navigation {
-				padding-right: 2.5rem !important
+				padding-right: 2.5rem !important;
+				padding-left: 4rem !important
 	}
 
 	.nav-masthead .nav-link {
