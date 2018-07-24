@@ -313,9 +313,8 @@ video {
 }
 
 .inner-masthead {
-    margin-bottom: 0;
-		z-index: 4 !important;
-		background-color: transparent;
+    /*margin-bottom: 0; */
+		z-index: 4 !important
 }
 
 .nav-masthead .nav-link {
