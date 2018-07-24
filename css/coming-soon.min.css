@@ -285,6 +285,10 @@ video {
 
 @media (min-width:768px) {
 
+	.masthead__navigation {
+				right: 2.5rem !important
+	}
+
 	.nav-masthead .nav-link {
 				color: #262626 !important;
 			  color: rgba(26, 26, 26, .5) !important;
