@@ -353,7 +353,7 @@ video {
 
 @media (min-width: 48em) {
 	.inner-masthead {
-	    float: left;
+	    float: left !important;
 	}
 	.nav-masthead {
 	    float: right;
