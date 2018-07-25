@@ -324,8 +324,8 @@ video {
 .inner-masthead {
     margin-bottom: 0;
 		position: absolute !important;
-		display: flex;
-		align-items: center;
+		display: flex !important;
+		align-items: center !important;
 		z-index: 4 !important
 }
 
