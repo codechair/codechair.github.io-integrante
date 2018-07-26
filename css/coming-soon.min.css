@@ -376,3 +376,14 @@ forms
 input[type="hidden"] {
   display: none;
 }
+
+/* ======================================
+visibility
+========================================
+*/
+
+.hidden,
+.is--hidden {
+  display: none;
+  visibility: hidden;
+}
