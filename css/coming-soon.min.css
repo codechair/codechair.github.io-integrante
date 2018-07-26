@@ -25,7 +25,14 @@ body {
 
 html, body {
     max-width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
+}
+
+@media (min-width:768px) {
+	html, body {
+	    max-width: 100%;
+	    overflow: hidden;
+	}
 }
 
 video {
