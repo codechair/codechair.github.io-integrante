@@ -92,6 +92,10 @@ video {
 	margin-top: 6rem !important;
 }
 
+.masthead-contact-content {
+	margin-bottom: 6rem !important;
+}
+
 /* The way to read this is to apply this CSS to the 'masthead.bg' only if the property is a child of 'masthead' */
 .masthead .masthead-bg {
 	position: absolute;
@@ -125,7 +129,7 @@ video {
 	font-size: 2.5rem
 }
 
-.masthead-contact .masthead-content h1 {
+.masthead-contact .masthead-contact-content h1 {
 	font-size: 2.5rem
 }
 
@@ -133,7 +137,7 @@ video {
 	font-size: 1.2rem
 }
 
-.masthead-contact .masthead-content p {
+.masthead-contact .masthead-contact-content p {
 	font-size: 1.2rem
 }
 
@@ -141,7 +145,7 @@ video {
 	font-weight: 700
 }
 
-.masthead-contact .masthead-content p strong {
+.masthead-contact .masthead-contact-content p strong {
 	font-weight: 700
 }
 
@@ -150,7 +154,7 @@ video {
 	padding: 1rem
 }
 
-.masthead-contact .masthead-content .input-group-newsletter input {
+.masthead-contact .masthead-contact-content .input-group-newsletter input {
 	font-size: 1rem;
 	padding: 1rem
 }
@@ -163,7 +167,7 @@ video {
 	padding: 1rem
 }
 
-.masthead-contact .masthead-content .input-group-newsletter button {
+.masthead-contact .masthead-contact-content .input-group-newsletter button {
 	font-size: .8rem;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -204,12 +208,16 @@ video {
 		margin-top: 0 !important;
 	}
 
+	.masthead-contact-content {
+		margin-top: 0 !important;
+	}
+
 	.masthead .masthead-content {
 		padding-left: 3rem;
 		padding-right: 10rem
 	}
 
-	.masthead-contact .masthead-content {
+	.masthead-contact .masthead-contact-content {
 		padding-left: 3rem;
 		padding-right: 10rem
 	}
@@ -218,7 +226,7 @@ video {
 		font-size: 3.5rem
 	}
 
-	.masthead-contact .masthead-content h1 {
+	.masthead-contact .masthead-contact-content h1 {
 		font-size: 3.5rem
 	}
 
@@ -226,7 +234,7 @@ video {
 		font-size: 1.3rem
 	}
 
-	.masthead-contact .masthead-content p {
+	.masthead-contact .masthead-contact-content p {
 		font-size: 1.3rem
 	}
 }
