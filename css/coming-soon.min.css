@@ -110,7 +110,6 @@ video {
 	background-color: rgba(0, 46, 102, .8);
 /*	transform: skewY(4deg);
 	transform-origin: bottom right */
-	overflow-y: visible !important
 }
 
 .masthead-contact .masthead-bg {
@@ -125,6 +124,8 @@ video {
 	background-color: rgba(0, 46, 102, .8);
 /*	transform: skewY(4deg);
 	transform-origin: bottom right */
+	overflow-y: visible !important
+
 }
 
 .masthead .masthead-content h1 {
