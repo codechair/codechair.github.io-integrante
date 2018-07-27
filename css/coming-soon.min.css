@@ -98,7 +98,6 @@ video {
 
 }
 
-/* The way to read this is to apply this CSS to the 'masthead.bg' only if the property is a child of 'masthead' */
 .masthead .masthead-bg {
 	position: absolute;
 	top: 0;
