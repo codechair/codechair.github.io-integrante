@@ -114,7 +114,7 @@ video {
 }
 
 .mastheadcontact-bg {
-	height: 80%;
+	height: 80% !important;
 }
 
 .masthead .masthead-content h1 {
