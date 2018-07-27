@@ -119,7 +119,7 @@ video {
 	right: 0;
 	left: 0;
 	width: 100%;
-	min-height: 50rem;
+	min-height: 40rem;
 	height: 100%;
 	background-color: rgba(0, 46, 102, .8);
 /*	transform: skewY(4deg);
