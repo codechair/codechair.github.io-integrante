@@ -93,8 +93,9 @@ video {
 }
 
 .masthead-contact-content {
-	margin-bottom: 6rem !important;
 	margin-top: 6rem !important;
+	margin-bottom: 3rem !important;
+
 }
 
 /* The way to read this is to apply this CSS to the 'masthead.bg' only if the property is a child of 'masthead' */
