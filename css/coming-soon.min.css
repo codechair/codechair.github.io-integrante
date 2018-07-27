@@ -97,6 +97,7 @@ video {
 	margin-top: 6rem !important;
 }
 
+/* The way to read this is to apply this CSS to the 'masthead.bg' only if the property is a child of 'masthead' */
 .masthead .masthead-bg {
 	position: absolute;
 	top: 0;
@@ -119,7 +120,7 @@ video {
 	left: 0;
 	width: 100%;
 	min-height: 35rem;
-	height: 80%;
+	height: 100%;
 	background-color: rgba(0, 46, 102, .8);
 /*	transform: skewY(4deg);
 	transform-origin: bottom right */
