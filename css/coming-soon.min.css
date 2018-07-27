@@ -80,10 +80,6 @@ video {
 	z-index: 3
 }
 
-.mastheadcontact-bg {
-	height: 80%;
-}
-
 .masthead-content {
 	margin-top: 6rem !important;
 }
@@ -115,6 +111,10 @@ video {
 	background-color: rgba(0, 46, 102, .8);
 	transform: skewY(4deg);
 	transform-origin: bottom right
+}
+
+.mastheadcontact-bg {
+	height: 80%;
 }
 
 .masthead .masthead-content h1 {
