@@ -80,6 +80,10 @@ video {
 	z-index: 3
 }
 
+.mastheadcontact-bg {
+	height: 80%;
+}
+
 .masthead-content {
 	margin-top: 6rem !important;
 }
