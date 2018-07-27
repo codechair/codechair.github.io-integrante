@@ -107,7 +107,25 @@ video {
 	transform-origin: bottom right */
 }
 
+.masthead-contact .masthead-bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	width: 100%;
+	min-height: 35rem;
+	height: 100%;
+	background-color: rgba(0, 46, 102, .8);
+/*	transform: skewY(4deg);
+	transform-origin: bottom right */
+}
+
 .masthead .masthead-content h1 {
+	font-size: 2.5rem
+}
+
+.masthead-contact .masthead-content h1 {
 	font-size: 2.5rem
 }
 
@@ -115,7 +133,15 @@ video {
 	font-size: 1.2rem
 }
 
+.masthead-contact .masthead-content p {
+	font-size: 1.2rem
+}
+
 .masthead .masthead-content p strong {
+	font-weight: 700
+}
+
+.masthead-contact .masthead-content p strong {
 	font-weight: 700
 }
 
@@ -124,7 +150,20 @@ video {
 	padding: 1rem
 }
 
+.masthead-contact .masthead-content .input-group-newsletter input {
+	font-size: 1rem;
+	padding: 1rem
+}
+
 .masthead .masthead-content .input-group-newsletter button {
+	font-size: .8rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 1rem
+}
+
+.masthead-contact .masthead-content .input-group-newsletter button {
 	font-size: .8rem;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -155,6 +194,12 @@ video {
 		transform-origin: top right
 	}
 
+	.masthead-contact .masthead-bg {
+		min-height: 0;
+		transform: skewX(-8deg);
+		transform-origin: top right
+	}
+
 	.masthead-content {
 		margin-top: 0 !important;
 	}
@@ -164,7 +209,16 @@ video {
 		padding-right: 10rem
 	}
 
+	.masthead-contact .masthead-content {
+		padding-left: 3rem;
+		padding-right: 10rem
+	}
+
 	.masthead .masthead-content h1 {
+		font-size: 3.5rem
+	}
+
+	.masthead-contact .masthead-content h1 {
 		font-size: 3.5rem
 	}
 
@@ -172,6 +226,9 @@ video {
 		font-size: 1.3rem
 	}
 
+	.masthead-contact .masthead-content p {
+		font-size: 1.3rem
+	}
 }
 
 .social-icons {
