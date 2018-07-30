@@ -525,7 +525,7 @@ input[type="submit"] {
   *overflow: visible;
 }
 
-input[type=submit]:hover {
+input[type="submit"]:hover {
 	background-color: #ba7c37!important;
 	border-color: #ba7c37!important
 }
