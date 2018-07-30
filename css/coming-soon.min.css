@@ -466,6 +466,83 @@ input[type="hidden"] {
   display: none;
 }
 
+label,
+input,
+button,
+select,
+textarea {
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+
+input,
+button,
+select,
+textarea {
+  box-sizing: border-box;
+  font-family: $sans-serif;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.25em;
+  color: inherit;
+  cursor: pointer;
+
+  small {
+    font-size: small;
+  }
+
+  input,
+  textarea,
+  select {
+    display: block;
+  }
+}
+
+input,
+textarea,
+select {
+  display: inline-block;
+  width: 100%;
+  padding: 0.25em;
+  margin-bottom: 0.5em;
+  color: inherit;
+  background-color: transparent;
+  border: transparent;
+  border-radius: 9px;
+  box-shadow: 0;
+}
+
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background-color: #cd9557;
+	border-color: #cd9557;
+	width: auto;
+  height: auto;
+  cursor: pointer;
+  *overflow: visible;
+}
+
+input[type=submit]:hover {
+	background-color: #ba7c37!important;
+	border-color: #ba7c37!important
+}
+
+.form-group {
+  margin-bottom: 5px;
+  padding: 0;
+  border-width: 0;
+}
+
+form {
+  margin: 0 0 5px 0;
+  padding: 1em;
+  background-color: transparent;
+}
+
+
 /* ======================================
 visibility
 ========================================
