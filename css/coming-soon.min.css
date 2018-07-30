@@ -517,8 +517,8 @@ select {
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	background-color: #cd9557;
-	border-color: #cd9557;
+	background-color: #cd9557 !important!;
+	border-color: #cd9557 !important!;
 	width: auto;
   height: auto;
   cursor: pointer;
