@@ -343,8 +343,8 @@ video {
 }
 
 .btn-secondary-contact {
-	background-color: #cd9557;
-	border-color: #cd9557;
+	background-color: #cd9557 !important;
+	border-color: #cd9557 !important;
 	border-top-right-radius: 6px !important;
 	border-bottom-right-radius: 6px !important;
 	border-bottom-left-radius: 6px;
