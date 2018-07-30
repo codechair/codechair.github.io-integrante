@@ -342,6 +342,22 @@ video {
 	border-color: #ba7c37!important
 }
 
+.btn-secondary-contact {
+	background-color: #cd9557;
+	border-color: #cd9557;
+	border-top-right-radius: 6px !important;
+	border-bottom-right-radius: 6px !important;
+	border-bottom-left-radius: 6px;
+	border-top-left-radius: 6px
+}
+
+.btn-secondary-contact:active,
+.btn-secondary-contact:focus,
+.btn-secondary-contact:hover {
+	background-color: #ba7c37!important;
+	border-color: #ba7c37!important
+}
+
 .input {
 	font-weight: 300!important
 }
