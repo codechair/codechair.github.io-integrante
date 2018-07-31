@@ -530,6 +530,10 @@ select {
   box-shadow: 0;
 }
 
+textarea {
+vertical-align: top
+}
+
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
@@ -552,9 +556,11 @@ input[type="submit"]:hover {
   border-width: 0;
 }
 
+/*
 #Field1 {
 	margin-bottom: 5px !important;
 }
+*/
 
 #form2 {
   margin: 0 0 5px 0;
