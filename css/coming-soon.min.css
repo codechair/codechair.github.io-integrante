@@ -501,6 +501,7 @@ video {
 .nav-masthead .nav-link-legal:hover,
 .nav-masthead .nav-link-legal:focus {
 		border-bottom-color: rgba(26, 26, 26, .5) !important;
+		text-decoration: none;
 }
 
 .nav-masthead .nav-link-legal + .nav-link-legal {
