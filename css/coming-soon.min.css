@@ -552,6 +552,10 @@ input[type="submit"]:hover {
   border-width: 0;
 }
 
+#Field1 {
+	margin-bottom: 3px !important;
+}
+
 #form2 {
   margin: 0 0 5px 0;
   padding: 0;
