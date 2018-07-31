@@ -523,7 +523,7 @@ select {
   width: 100%;
   padding: 0.25em;
   margin-bottom: 0.5em;
-  color: inherit;
+  color: #495057;
   background-color: $input-bg;
   border: $input-border-width solid $input-border-color;
   border-radius: 9px;
