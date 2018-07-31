@@ -508,6 +508,11 @@ video {
 		  margin-left: 1rem;
 }
 
+.nav-masthead .active #nav-masthead-legal {
+			color: #000 !important;
+			border-bottom-color: #000 !important;
+}
+
 @media (min-width: 48em) {
 	.inner-masthead {
 	    float: left;
