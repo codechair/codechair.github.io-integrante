@@ -61,6 +61,10 @@ video {
 
 }
 
+#bodylegal {
+	background: none
+}
+
 .overlay {
 	position: absolute;
 	top: 0;
@@ -371,6 +375,11 @@ video {
 	margin-left: auto;
 	margin-right: auto;
 	z-index: 3
+}
+
+.mastfoot-legal {
+	color: #262626;
+	color: rgba(26, 26, 26, .5);
 }
 
 .inner-mastfoot {
