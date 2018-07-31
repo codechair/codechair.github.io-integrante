@@ -488,19 +488,14 @@ video {
 		  border-bottom-color: #fff;
 }
 
-.nav-masthead-legal .nav-link-legal {
+.nav-masthead .nav-link-legal {
 			color: #262626 !important;
 			color: rgba(26, 26, 26, .5) !important;
 }
 
-.nav-masthead-legal .nav-link-legal:hover,
-.nav-masthead-legal .nav-link-legal:focus {
+.nav-masthead .nav-link-legal:hover,
+.nav-masthead .nav-link-legal:focus {
 		border-bottom-color: rgba(26, 26, 26, .5) !important;
-}
-
-.nav-masthead-legal .active {
-			color: #000 !important;
-			border-bottom-color: #000 !important;
 }
 
 @media (min-width: 48em) {
