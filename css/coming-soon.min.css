@@ -503,6 +503,10 @@ video {
 		border-bottom-color: rgba(26, 26, 26, .5) !important;
 }
 
+.nav-masthead .nav-link-legal + .nav-link-legal {
+		  margin-left: 1rem;
+}
+
 @media (min-width: 48em) {
 	.inner-masthead {
 	    float: left;
