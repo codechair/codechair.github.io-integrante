@@ -331,7 +331,7 @@ video {
 		margin-left: 4rem !important;
 		margin-right: 10rem !important;
 		z-index: 3
-	}	
+	}
 
 	.inner-mastfoot {
 		font-size: 0.8rem;
@@ -486,6 +486,21 @@ video {
 .nav-masthead .active {
 		  color: #fff;
 		  border-bottom-color: #fff;
+}
+
+.nav-masthead-legal .nav-link-legal {
+			color: #262626 !important;
+			color: rgba(26, 26, 26, .5) !important;
+}
+
+.nav-masthead-legal .nav-link-legal:hover,
+.nav-masthead-legal .nav-link-legal:focus {
+		border-bottom-color: rgba(26, 26, 26, .5) !important;
+}
+
+.nav-masthead-legal .active {
+			color: #000 !important;
+			border-bottom-color: #000 !important;
 }
 
 @media (min-width: 48em) {
