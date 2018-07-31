@@ -530,12 +530,6 @@ select {
   box-shadow: 0;
 }
 
-input,
-textarea,
-select :focus {
-	outline: 6px;
-}
-
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
