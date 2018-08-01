@@ -96,6 +96,15 @@ video {
 	z-index: 3
 }
 
+.masthead-legal {
+	position: relative;
+	overflow-x: hidden;
+	padding-bottom: 3rem;
+	/*height: 80%;*/
+	z-index: 3
+}
+
+
 .masthead-content {
 	margin-top: 6rem !important;
 }
@@ -194,6 +203,14 @@ video {
 
 	.masthead-contact {
 		height: 100%;
+		min-height: 0;
+		width: 40.5rem;
+		padding-bottom: 0;
+		overflow: visible
+	}
+
+	.masthead-legal {
+		/* height: 100%; */
 		min-height: 0;
 		width: 40.5rem;
 		padding-bottom: 0;
