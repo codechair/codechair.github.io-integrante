@@ -214,7 +214,7 @@ video {
 		/*min-height: 0; */
 		width: 40.5rem;
 		padding-bottom: 0;
-		overflow: visible
+		overflow-x: hidden
 	}
 
 	.masthead .masthead-bg {
