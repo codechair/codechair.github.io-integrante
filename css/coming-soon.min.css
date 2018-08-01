@@ -449,6 +449,10 @@ video {
 				padding-left: 4rem !important
 	}
 
+	.masthead__navigation #masthead__navigation-legal {
+			padding-bottom: inherit !important
+		}
+
 	.inner-masthead {
 				margin-bottom: 0 !important;
 	}
@@ -475,6 +479,10 @@ video {
 		width: 100vw !important;
 		position: absolute !important
 }
+
+.masthead__navigation #masthead__navigation-legal {
+		padding-bottom: inherit !important
+	}
 
 .inner-masthead {
     margin-bottom: 10px;
