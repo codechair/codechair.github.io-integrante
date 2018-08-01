@@ -631,5 +631,5 @@ main of legal page
 */
 
 .inner-cover {
-	max-width: 42em;
+	max-width: 42em !important;
 }
