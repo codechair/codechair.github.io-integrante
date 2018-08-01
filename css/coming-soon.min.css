@@ -624,3 +624,12 @@ visibility
   display: none;
   visibility: hidden;
 }
+
+/* ======================================
+main of legal page
+========================================
+*/
+
+.inner-cover {
+	max-width: 42em;
+}
