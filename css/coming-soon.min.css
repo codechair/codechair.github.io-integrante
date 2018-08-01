@@ -34,7 +34,7 @@ html, body {
 	    overflow: hidden;
 	}
 	#bodylegal {
-		overflow-x: hidden !important
+		overflow-x: hidden !important;
 		overflow-y: visible !important
 	}
 }
