@@ -62,7 +62,8 @@ video {
 }
 
 #bodylegal {
-	background: none
+	background: none;
+	overflow: visible
 }
 
 .overlay {
