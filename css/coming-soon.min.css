@@ -215,8 +215,7 @@ video {
 		min-height: 0;
 		width: 40.5rem;
 		padding-bottom: 0;
-		overflow-x: hidden;
-		overflow-y: hidden;
+		overflow: visible;
 		z-index: 4
 	}
 
