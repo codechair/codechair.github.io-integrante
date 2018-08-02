@@ -413,7 +413,7 @@ video {
 .mastfoot-legal {
 	color: #262626;
 	color: rgba(26, 26, 26, .5);
-	position: absolute;
+	position: relative;
 	bottom: 10px;
 	width: 100%;
 	margin-left: auto;
