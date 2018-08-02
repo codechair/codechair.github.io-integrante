@@ -670,7 +670,7 @@ table of Contents
 ========================================
 */
 
-a #toc {
+#toc {
     color: inherit !important;
     text-decoration: none !important;
 }
