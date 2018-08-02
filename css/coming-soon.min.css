@@ -672,5 +672,5 @@ table of Contents
 
 #toc {
     color: rgba(26, 26, 26, .5) !important;
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
