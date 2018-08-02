@@ -671,6 +671,6 @@ table of Contents
 */
 
 #toc {
-    color: rgba(26, 26, 26, .5) !important;
+    color: inherit !important;
     text-decoration: underline !important;
 }
