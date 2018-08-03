@@ -37,9 +37,6 @@ html, body {
 		overflow-x: hidden !important;
 		overflow-y: visible !important
 	}
-	#open-popup {
-		overflow: auto;
-	}
 }
 
 video {
