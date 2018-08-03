@@ -49,7 +49,7 @@
         <nav class="nav nav-masthead justify-content-center" id="nav-masthead-legal">
           <a class="nav-link-legal" href="/codechair.github.io-integrante">Home</a>
           <a class="nav-link-legal" href="#">Blog</a>
-          <a class="nav-link-legal" href="#" id="open-popup" onclick ="showMailingPopUp(); return false;" data-source="newsletter.html">Join Newsletter</a>
+          <a class="nav-link-legal" href="#" id="open-popup" onclick ="showMailingPopUp(); return false;">Join Newsletter</a>
           <a class="nav-link-legal" href="/codechair.github.io-integrante/contact">Contact</a>
         </nav>
       </div>
@@ -140,13 +140,6 @@
 
     <!-- Custom scripts for this template -->
     <script src="/codechair.github.io-integrante/js/coming-soon.min.js"></script>
-    <script>
-    $(function () {
-        $("#open-popup").each(function () {
-            $(this).load(this.dataset.source);
-        });
-    });
-    </script>
 
     <!-- Newsletter pop-up -->
     <link rel="import" href="newsletter.html">
