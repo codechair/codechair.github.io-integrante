@@ -31,14 +31,14 @@ html, body {
 @media (min-width:768px) {
 	html, body {
 	    max-width: 100%;
-	    overflow: hidden;
+	    overflow: hidden !important;
 	}
 	#bodylegal {
 		overflow-x: hidden !important;
 		overflow-y: visible !important
 	}
 	#open-popup {
-		overflow: auto;  
+		overflow: auto;
 	}
 }
 
